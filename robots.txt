@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /s/
+Disallow: /computerhelp/
+Disallow: *rrr:*
+Disallow: *--p--*
+Disallow: /--p--
+Disallow: *jps:*
+Disallow: /ss/
+Disallow: *users*
